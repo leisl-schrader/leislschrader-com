@@ -1,0 +1,151 @@
+/* Sass variables */
+
+$headingTextColor: #fff;
+
+/* Typography */
+
+body {
+  padding: 0 4% 4%;
+  font: 90%/170% "mic-32-new-web", Helvetica, Arial, sans-serif;
+  color: #000;
+  background-color: #ddd;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  width: 99.4%;
+  padding: 10px 5%;
+  position: relative;
+  left: -5%;
+}
+
+h1, h2, h3, h4 {
+  
+  color: $headingTextColor;
+  @include text-shadow(rgba(#000, 0.3) 2px 2px 0); 
+}
+
+h1 {
+  
+  padding: 2% 5%;
+  font-size: 300%;
+  background-color: #00f;
+}
+
+h2 {
+ 
+  font-size: 200%;
+  line-height: 100%;
+  background-color: #f0f; 
+  font-weight: normal;
+}
+
+h3 {
+  
+  margin-top: 2%;
+  font-size: 200%;
+  background-color: #f00;
+}
+
+h4 {
+  
+  margin-top: 2%;
+  font-size: 150%;
+  background-color: #0a0; 
+}
+
+h5 {
+  
+  display: inline-block;
+  width: auto;
+  padding-right: 0;
+  padding-bottom: 0;
+  font-size: 125%;
+}
+
+h5+p {
+  
+  display: inline-block;
+  position: relative;
+  left: -5%;
+  margin-bottom: 0;
+}
+
+h6 {
+  
+  font-size: 100%;
+  padding-bottom: 0;
+}
+
+
+p {
+  margin-bottom: 15px;
+}
+
+ul {
+  margin-left: 15px;
+}
+
+a {
+
+  display: inline-block;
+  padding: 5px 10px;
+  color: $headingTextColor;
+  color: #fff;
+  background-color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  
+  &:hover {
+    color: #fff;
+    background-color: #666;
+  }
+  &:visited {
+    color: #fff;
+  }
+}
+
+textarea {
+  font: 100% Helvetica, Arial, sans-serif;
+}
+
+.margin-reset {
+  margin: 0 !important;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+/* Layout */
+
+div[role="main"] {
+
+	
+}
+
+header {
+  
+  text-align: center;
+  
+  h3 {
+    
+    margin: 0;
+  }
+  
+  nav {
+    
+    padding: 1% 0;
+  }
+}
