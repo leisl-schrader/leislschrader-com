@@ -36,11 +36,11 @@
   <header>
 
 	<h1>Leisl Schrader</h1>
-  	<h3>Web Developer - HTML / CSS / JS</h3>
+  	<h3>Web Developer (HTML / CSS / JS)</h3>
   	<h3>New York, NY</h3>
   
-  	<h2>Creative coder with 8+ years experience in front-end Web development.</h2>
-  	<h2>Strong passion for innovation, best practices, elegant solutions, and insanely high standards.</h2>
+  	<h2>Creative, experienced front-end developer<br>
+  	with a passion for innovation, best practices, elegant solutions, and high standards.</h2>
   	
   	<nav>
   		<a href="#profile">Profile</a>
@@ -55,9 +55,9 @@
   	
   	<section id="profile">
   		
-  		<p><strong>I have over eight experience in development and design.</strong> In these years, I have honed and proven, an intelligent and innovative creativity; a focus on doing what gets results; an unflagging attention to detail; and a sense of priority for putting clients' needs first.</p>
+  		<p><strong>In my nine years experience in development and design,</strong> I have proven an intelligent and innovative creativity; a focus on results and long-term objectives; an unflagging attention to detail; and a commitment to putting clients' needs first.</p>
 
-		<p><strong>I've gained a first-hand understanding of the big picture of business</strong> through my own independent clients: the management, sales, customer service, accounting, and finance matters on which design is dependent. I have developed exceptional leadership skills, integrity, and perseverance under pressure.</p>
+		<p><strong>I've gained a first-hand understanding of the big picture of business</strong> through my own independent clients: the management, sales, customer relationship, and finance matters on which design is dependent. I bring leadership, high standards, innovation, and perseverance under pressure.</p>
 
   	</section>
   	
@@ -68,53 +68,64 @@
   		<h4>Skills</h4>
 		
 		<div>
-			<h5>Languages  / </h5>
+			<h5>Languages</h5>
 			<p>HTML 5, CSS 3 (Sass, Compass), JavaScript (jQuery), ActionScript 3, PHP</p>
 		</div>
 		
 		<div>
-			<h5>Software  /  </h5>
-			<p>Adobe Creative Suite (Photoshop, Illustrator, InDesign), Adobe Flash, Source control (Git, SVN), OSX Terminal</p>
+			<h5>Software</h5>
+			<p>Content Management Systems (Wordpress, Drupal), Source control (Git, SVN), Adobe Creative Suite (Photoshop, Illustrator, InDesign), Adobe Flash</p>
 		</div>
 
-
 		<h4>Experience</h4>
+		
+		<h6>3.2013 – present</h6>
+		<h5>Front End Developer</h5>
+		<p>Archetypes  /  New York, NY</p>
 
-		<h6>6.2011 – present</h6>
-		<h5>Senior UI Developer  /  </h5>
+		<p>Developed and maintained front-end themes on large-scale Drupal application.</p>
+
+		<h6>6.2011 – 2.2013</h6>
+		<h5>Senior UI Developer</h5>
 		<p>Publicis  /  New York, NY</p>
 
 		<p>Built new front-end interfaces for Web sites, Facebook applications, and e-mail marketing. Implemented new Web standards practices, and led initiative to adopt responsive web design. 
 		Clients include Citigroup, L'oreal, and Sanofi.</p>
 
 		<h6>8.2009 – 6.2011</h6>
-		<h5>Interactive Developer / </h5>
+		<h5>Interactive Developer</h5>
 		<p>JUICE Pharma Worldwide / New York, NY</p>
 
-		<p>Developed Web sites, Flash applications, and e-mail marketing; implemented and evangelized a company-wide content management system; implemented Web standards practices; managed junior developers.</p>
+		<p>Developed Web sites, Flash applications/animations, and e-mail marketing; implemented and evangelized a company-wide content management system; implemented Web standards practices; managed junior developers.</p>
 
 		<h6>1.2008 – 2.2009</h6>
-		<h5>Web Developer/Designer / </h5>
+		<h5>Web Developer/Designer</h5>
 		<p>Playboy Enterprises / New York, NY</p>
 		
-		<p>Designed and produced visual materials for integrated Web/print marketing campaigns, including logos, signage, websites, banners, skins, email marketing, print collateral, and advertisemets for a large international lifestyle and media brand.</p>
+		<p>Designed and developed visual materials for integrated Web/print marketing campaigns, including logos, signage, websites, banners, skins, email marketing, print collateral, and advertisements for a large international lifestyle and media brand.</p>
 		
 		<h6>6.2007 – 12.2007</h6>
-		<h5>Web Developer/Designer / </h5>
+		<h5>Web Developer/Designer</h5>
 		<p>MusicToGo Media / New York, NY</p>
 		
-		<p>Designed corporate identity materials; conceptualized and executed Flash animations; created original skins and advertising panels for software products; developed promotional Web sites.</p>
+		<p>Designed and developed Web sites and Flash animations; designed skins and advertising units for software products; designed corporate identity materials.</p>
+		
+		<h6>6.2006 – 8.2006</h6>
+		<h5>Web Developer/Designer</h5>
+		<p>Pacha / New York, NY</p>
+		
+		<p>Assessed and restructured the exisitng site to better suit the company's ongoing needs; designed weekly email marketing blasts; setup and managed photo galleries.</p>
 		
 		<h6>5.2004 – 1.2006</h6>
-		<h5>Web Developer/Designer / </h5>
+		<h5>Web Developer/Designer</h5>
 		<p>Public Relations and Marketing Group / Patchogue, NY</p>
 		
-		<p>Met with clients to assess their needs; planned Web site models; designed and developed Web sites and print collateral; managed Web site content.</p>
+		<p>Met with clients; planned Web site architecture; designed and developed Web sites and print collateral; managed Web site content.</p>
 
 		<h4>Education</h4>
 		
 		<h6>9.2003 - 5.2007</h6>
-		<h5>B.F.A., Graphic Design / </h5>
+		<h5>B.F.A., Graphic Design</h5>
 		<p>School of Visual Arts / New York, NY</p>
 		
   	</section>
@@ -123,9 +134,8 @@
   		<h3>Contact</h3>
   		<p>
 	  		<a id="emailLink">E-mail</a>
-	  		<a href="skype:remix_sakura?call">Skype</a>
 			<a href="http://www.linkedin.com/in/remixdesign" title="LinkedIn">LinkedIn</a>
-			or, 718.312.8190
+	  		<a href="skype:remix_sakura?call">Skype</a>
 		</p>
 		<?php
 				
@@ -194,7 +204,7 @@
 					</div>
 				
 					<div>
-						<label for="details"><strong>Please describe the nature and scope of your web development role or project.</strong></label>
+						<label for="details"><strong>Tell me all about your role or project.</strong></label>
 					</div>
 					
 					<div>
