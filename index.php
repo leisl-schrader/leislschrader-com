@@ -79,11 +79,11 @@
 
 		<h4>Experience</h4>
 		
-		<h6>3.2013 – present</h6>
+		<h6>3.2013 – 8.2013</h6>
 		<h5>Front End Developer</h5>
 		<p>Archetypes  /  New York, NY</p>
 
-		<p>Developed and maintained front-end themes on large-scale Drupal application.</p>
+		<p>Developed and maintained front-end themes on large-scale Drupal site; worked on a fully responsive site re-design; advised and implemented new HTML email testing procedures.</p>
 
 		<h6>6.2011 – 2.2013</h6>
 		<h5>Senior UI Developer</h5>
