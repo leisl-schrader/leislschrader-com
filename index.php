@@ -79,6 +79,12 @@
 
 		<h4>Experience</h4>
 		
+		<h6>10.2013 – present</h6>
+		<h5>Senior UI Engineer</h5>
+		<p>OSP Group  /  New York, NY</p>
+
+		<p>Built new functionality for a suite of e-commerce sites; wrote and implemented new front-end code standards and design patterns; spearheaded implementation of Sass CSS preprocessor framework and responsive web design; led regular meetings and innovation sessions for UI developers; mentored and code reviewed junior developers.</p>
+
 		<h6>3.2013 – 8.2013</h6>
 		<h5>Front End Developer</h5>
 		<p>Archetypes  /  New York, NY</p>
